@@ -1,0 +1,2 @@
+# .gitignore in project root or individual frontend/backend folders
+node_modules/
